@@ -5,7 +5,7 @@ const prioritySelect = document.getElementById('priority');
 const filterBtns = document.querySelectorAll('.filter-btn');
 
 
-// Load tasks on page load
+
 document.addEventListener('DOMContentLoaded', () => {
     loadTasks();
     loadTheme();
