@@ -18,3 +18,5 @@ It allows users to manage tasks by adding, deleting, and marking them as complet
 - Responsive Design: The application adapts to various screen sizes for a seamless experience.
   
    **📍 Try it: https://shereen-mohamed36.github.io/Todo-list/**
+
+<img width="1087" height="825" alt="to do list" src="https://github.com/user-attachments/assets/3b2ea8c5-db3b-43c4-851f-310c9de8a2b5" />
